@@ -3504,11 +3504,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Git Testing",
-      "projectName": "Git Testing",
-      "projectPath": "C:\\Users\\ravin\\OneDrive\\Documents\\GitHub\\UiPathTest\\PostIssue\\Git Testing\\.local",
+      "projectUniqueName": "PVLBOT",
+      "projectName": "PVLBOT",
+      "projectPath": "C:\\Users\\ravin\\OneDrive\\Documents\\GitHub\\UiPathTest\\PostIssue\\PVLBOT\\.local",
       "packagesPath": "C:\\Users\\ravin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ravin\\OneDrive\\Documents\\GitHub\\UiPathTest\\PostIssue\\Git Testing\\.local"
+      "outputPath": "C:\\Users\\ravin\\OneDrive\\Documents\\GitHub\\UiPathTest\\PostIssue\\PVLBOT\\.local"
     },
     "frameworks": {
       "net461": {
